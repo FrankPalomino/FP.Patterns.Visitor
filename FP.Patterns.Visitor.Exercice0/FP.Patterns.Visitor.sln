@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Visitor", "FP.Patterns.Visitor.csproj", "{802492E5-F3AA-4FF4-8E1F-9BB37386CC1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Visitor.Exercice0", "FP.Patterns.Visitor.Exercice0.csproj", "{802492E5-F3AA-4FF4-8E1F-9BB37386CC1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Visitor.Exercice1", "..\FP.Patterns.Visitor.Exercice1\FP.Patterns.Visitor.Exercice1.csproj", "{EACDDE62-2BB1-4F05-8288-036A8BB65918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Visitor.Exercice1", "..\FP.Patterns.Visitor.Exercice1\FP.Patterns.Visitor.Exercice1.csproj", "{EACDDE62-2BB1-4F05-8288-036A8BB65918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Visitor.Exercice2", "..\FP.Patterns.Visitor.Exercice2\FP.Patterns.Visitor.Exercice2.csproj", "{025056C0-4E97-4F44-BB53-991C60E2C9CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EACDDE62-2BB1-4F05-8288-036A8BB65918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EACDDE62-2BB1-4F05-8288-036A8BB65918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EACDDE62-2BB1-4F05-8288-036A8BB65918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025056C0-4E97-4F44-BB53-991C60E2C9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025056C0-4E97-4F44-BB53-991C60E2C9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025056C0-4E97-4F44-BB53-991C60E2C9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025056C0-4E97-4F44-BB53-991C60E2C9CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
